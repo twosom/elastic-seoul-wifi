@@ -1,0 +1,2 @@
+openapi:
+  key: ${data.seoul.go.kr-KEY}
